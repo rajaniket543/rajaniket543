@@ -153,10 +153,3 @@ Flutter, React, Node.js, REST APIs, ML model integration, or building full-stack
 
 ---
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=rajaniket543&color=534AB7&style=flat-square&label=Profile+Views)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=534AB7&height=100&section=footer" width="100%"/>
-
-</div>
